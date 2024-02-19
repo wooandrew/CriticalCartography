@@ -1,4 +1,4 @@
-# Critical Cartography
+# Creative and Critical Cartography
 Assignment for CS 8803 CDP (Spring '24) | Critical Cartography
 
 

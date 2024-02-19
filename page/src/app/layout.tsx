@@ -5,8 +5,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Critical Cartography",
-  description: "Assignment for CS 8803 CDP (Spring '24)",
+  title: "U.S. State Park Density Choropleth",
+  description: "Critical Cartography Assignment for CS 8803 CDP (Spring '24)",
 };
 
 export default function RootLayout({
