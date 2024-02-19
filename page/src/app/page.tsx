@@ -13,7 +13,7 @@ export default function Home() {
 
         <div className="m-5 text-center">
           <h1 className='text-4xl font-bold'>U.S. State Park Density Choropleth</h1>
-          <p className='text-lg'>Critical Cartography Assignment for CS 8803 CDP (Spring '24)</p>
+          <p className='text-lg'>Critical Cartography Assignment for CS 8803 CDP (Spring &rsquo;24)</p>
         </div>
         
         <div className="ml-auto mr-auto mt-5 w-2/3 h-3/4">
